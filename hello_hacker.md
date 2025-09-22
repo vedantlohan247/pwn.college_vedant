@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=g_85EVO3IC0&list=PL-ymxv0nOtqqRAz1x90vxNbhmSkeYx
 The challenge asks us to run the hello command with an argument hackers
 
 ## My solve
-**Flag:** `pwn.college{Y4eSgX4kV8jigZ6imOCXL_EVkgs.QX4YjM1wSM3kjNzEzW}
+**Flag:** `pwn.college{Y4eSgX4kV8jigZ6imOCXL_EVkgs.QX4YjM1wSM3kjNzEzW}`
 
 The command line begin with name of the command followed by arguments seperated by spaces, in this case the command was hello and the argument was hackers.
 
@@ -55,6 +55,7 @@ I learned that shell store the history of all of your previously used commands a
 
 ## References 
 https://www.youtube.com/watch?v=g_85EVO3IC0&list=PL-ymxv0nOtqqRAz1x90vxNbhmSkeYxHVC
+
 
 
 
