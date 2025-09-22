@@ -27,13 +27,13 @@ The challenge asks us to run the hello command with an argument hackers
 ## My solve
 **Flag:** `pwn.college{Y4eSgX4kV8jigZ6imOCXL_EVkgs.QX4YjM1wSM3kjNzEzW}`
 
-The command line begin with name of the command followed by arguments seperated by spaces, in this case the command was hello and the argument was hackers.
+The command line begins with name of the command followed by arguments seperated by spaces, in this case the command was hello and the argument was hackers.
 
 ```bash
 hacker@hello~intro-to-arguments:~$ hello hackers
 ```
 ## What I learned
-Every command line begin wit a program name or command followed by argumets or paramenters seperated by spaces.
+Every command line begins with a program name or command followed by argumets or paramenters seperated by spaces.
 
 ## References 
 https://www.youtube.com/watch?v=g_85EVO3IC0&list=PL-ymxv0nOtqqRAz1x90vxNbhmSkeYxHVC
@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=g_85EVO3IC0&list=PL-ymxv0nOtqqRAz1x90vxNbhmSkeYx
 
 
 # Command Hisotry
-The challenge asks us to use up and down keys to acess the previous commands.
+The challenge asks us to use up and down arrow keys to access the previous commands.
 
 
 ## My solve
@@ -51,10 +51,11 @@ By using the up key on the keyboard I was able to get the flag, which was presen
 
 
 ## What I learned
-I learned that shell store the history of all of your previously used commands and you can access them using the up or down keys. This saves time for you because you don't have to type in the same command again and again.
+I learned that shell stores the history of all of your previously used commands and you can access them using the up or down arrow keys. This saves time for you because you don't have to type in the same command again and again.
 
 ## References 
 https://www.youtube.com/watch?v=g_85EVO3IC0&list=PL-ymxv0nOtqqRAz1x90vxNbhmSkeYxHVC
+
 
 
 
